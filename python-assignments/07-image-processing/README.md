@@ -1,9 +1,3 @@
-
----
-
-## 📁 **python-assignments/07-image-processing/README.md**
-
-```markdown
 # Image Processing
 
 Professional computer vision implementation demonstrating OpenCV mastery, batch processing, and automated image manipulation workflows.

@@ -1,0 +1,16 @@
+Weather Report for Dhaka and Chittagong (AccuWeather)
+------------------------------------------------------
+City: Dhaka
+URL: https://www.accuweather.com/en/bd/dhaka/28143/weather-forecast/28143
+Temperature: 99°F
+Condition: Partly sunny and very warm
+Air Quality: Poor
+Warning: Danger of dehydration and heat stroke if outside for extended periods of time Saturday
+
+City: Chittagong
+URL: https://www.accuweather.com/en/bd/chittagong/27822/weather-forecast/27822
+Temperature: 99°F
+Condition: Sunny much of the time and very hot
+Air Quality: Fair
+Warning: Danger of dehydration and heatstroke if outside for extended periods of time
+

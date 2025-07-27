@@ -1,0 +1,4 @@
+City Weather Info
+-----------------
+City: Dhaka, Country: BD, Temp: 303.15K, Weather: clear sky, Timezone: 21600
+City: Chittagong, Country: BD, Temp: 300.15K, Weather: light rain, Timezone: 21600

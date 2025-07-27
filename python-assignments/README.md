@@ -1,8 +1,3 @@
----
-
-## 📁 **python-assignments/README.md**
-
-```markdown
 # Python Programming Assignments
 
 A comprehensive collection of **87 Python files** demonstrating progression from fundamental concepts to advanced applications. This directory showcases proficiency across multiple domains including game development, cryptography, computer vision, and data science.

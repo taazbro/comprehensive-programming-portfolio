@@ -313,7 +313,7 @@ g++ -o cipher A01-3.cpp
 
 ## 🤝 Connect
 
-- **GitHub:** @tazzbro
+- **GitHub:** @taazbro
 - **Portfolio:** This repository serves as a comprehensive programming showcase
 - **Contact:** Available for software development opportunities
 

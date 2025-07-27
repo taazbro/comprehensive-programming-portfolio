@@ -1,9 +1,3 @@
-
----
-
-## 📁 **python-assignments/08-game-development/README.md**
-
-```markdown
 # Game Development
 
 Interactive game programming demonstrating real-time graphics, physics simulation, and advanced Pygame implementation.
@@ -38,7 +32,8 @@ Professional UI: Real-time display of score and time remaining
 mousebutton.py - Interactive Physics
 pythonimport pygame, sys
 
-# Advanced interaction system:
+
+## Advanced interaction system:
 - Mouse click detection with collision algorithms
 - Real-time ball physics with velocity vectors
 - Click counter with persistent score tracking

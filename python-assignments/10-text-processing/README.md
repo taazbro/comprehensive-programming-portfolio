@@ -1,9 +1,3 @@
-
----
-
-## 📁 **python-assignments/10-text-processing/README.md**
-
-```markdown
 # Text Processing
 
 Natural language processing and text analysis demonstrating large-scale data handling and linguistic computing.

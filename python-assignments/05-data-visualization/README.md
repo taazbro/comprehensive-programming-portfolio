@@ -1,8 +1,3 @@
----
-
-## 📁 **python-assignments/05-data-visualization/README.md**
-
-```markdown
 # Data Visualization
 
 Professional data visualization demonstrating statistical analysis, chart generation, and business intelligence reporting.

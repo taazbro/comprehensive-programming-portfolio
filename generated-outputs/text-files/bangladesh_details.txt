@@ -1,0 +1,11 @@
+Field			Value
+--------------------------------------------
+Country Name	Bangladesh
+Official Name	People's Republic of Bangladesh
+Capital City	Dhaka
+Region	Asia
+Subregion	Southern Asia
+Area (sq km)	147570.0
+Population	164689383
+Currency	BDT
+Language	Bengali
